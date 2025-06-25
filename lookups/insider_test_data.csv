@@ -1,0 +1,12 @@
+timestamp,username,activity_type,volume,location,status
+2025-06-24 08:45:00,alice,print,50,Office,Success
+2025-06-24 09:10:00,alice,print,55,Office,Success
+2025-06-24 23:50:00,alice,print,5,Remote,Success
+2025-06-24 14:30:00,bob,usb_upload,150,Lab,Success
+2025-06-24 14:40:00,bob,usb_upload,140,Lab,Success
+2025-06-24 15:00:00,bob,usb_upload,600,Unknown,Success
+2025-06-24 11:00:00,carol,vpn_login,0,Home,Success
+2025-06-24 02:00:00,carol,vpn_login,0,China,Success
+2025-06-24 10:15:00,dave,download,250,Office,Success
+2025-06-24 10:45:00,dave,download,300,Office,Failed
+2025-06-24 20:45:00,dave,download,900,Office,Success

@@ -1,0 +1,1001 @@
+timestamp,username,activity_type,location,device,volume,status
+2025-06-17 23:23:28,criley,print,Tokyo,Laptop,259.66,failure
+2025-06-22 20:38:03,salazarmaria,usb_use,Tokyo,USB-Drive,583.8,success
+2025-06-10 15:15:40,kaisernancy,file_access,London,Desktop,756.05,failure
+2025-06-03 14:27:00,christopher91,file_access,London,Laptop,730.1,failure
+2025-06-06 03:47:59,lindawest,login,London,Printer,0.0,failure
+2025-05-26 03:31:39,tamaramorrison,file_access,Berlin,Printer,443.25,failure
+2025-06-07 12:25:29,greenwilliam,login,New York,Printer,0.0,success
+2025-05-31 01:06:50,tamaramorrison,print,London,Desktop,730.55,success
+2025-06-05 01:29:52,kyleblair,file_access,San Francisco,Desktop,803.38,failure
+2025-06-12 10:07:27,thull,login,London,Printer,0.0,success
+2025-06-02 15:16:06,tammywoods,usb_use,Remote,Laptop,547.89,success
+2025-06-10 12:04:31,hmassey,usb_use,Tokyo,Laptop,596.69,failure
+2025-06-15 01:07:17,bryan80,file_access,London,Desktop,190.2,success
+2025-05-28 09:06:08,greenwilliam,usb_use,Tokyo,Laptop,90.73,success
+2025-05-30 05:51:32,skeller,file_access,New York,Laptop,898.27,failure
+2025-06-01 11:09:45,aimee33,usb_use,Berlin,Desktop,849.64,failure
+2025-06-04 23:31:56,jasmine85,usb_use,Tokyo,Printer,660.59,failure
+2025-05-27 13:20:39,thull,usb_use,Berlin,Laptop,486.96,failure
+2025-06-22 05:14:42,criley,file_access,San Francisco,Laptop,731.76,success
+2025-06-20 07:01:42,lorijohnson,file_access,London,Desktop,333.2,success
+2025-06-23 14:13:20,nhoward,file_access,Remote,Desktop,46.19,success
+2025-05-28 22:51:19,achang,login,Remote,Desktop,0.0,success
+2025-05-26 15:44:48,salazarmaria,login,London,Laptop,0.0,success
+2025-05-31 09:37:48,tamaramorrison,login,San Francisco,Desktop,0.0,success
+2025-06-03 12:17:06,lindawest,file_access,Remote,Laptop,937.03,success
+2025-06-23 19:04:41,jrodriguez,print,Berlin,Laptop,836.07,success
+2025-06-22 07:40:35,thomas15,login,Remote,USB-Drive,0.0,failure
+2025-05-31 04:05:53,john51,file_access,New York,Printer,40.34,success
+2025-06-13 08:26:05,lorijohnson,print,San Francisco,USB-Drive,359.2,failure
+2025-05-29 19:17:06,aimee33,file_access,Remote,Desktop,966.58,success
+2025-06-12 07:53:13,hmassey,file_access,San Francisco,USB-Drive,529.94,success
+2025-05-30 23:50:46,tamaramorrison,print,Remote,Desktop,14.19,failure
+2025-05-27 03:02:33,skeller,usb_use,Remote,USB-Drive,389.25,failure
+2025-06-23 18:06:22,juancampos,login,Tokyo,Laptop,0.0,failure
+2025-05-26 09:51:04,thomas12,login,Berlin,USB-Drive,0.0,success
+2025-06-03 19:21:27,thomas15,print,London,USB-Drive,673.73,success
+2025-06-03 08:09:02,lorijohnson,usb_use,Tokyo,Printer,829.07,success
+2025-05-31 08:59:27,achang,file_access,Remote,USB-Drive,160.92,success
+2025-06-17 14:59:25,sean96,print,Tokyo,Printer,32.51,failure
+2025-06-04 13:58:55,sandrakirby,login,San Francisco,Printer,0.0,success
+2025-05-28 07:48:42,ostewart,file_access,Tokyo,Printer,908.13,success
+2025-05-26 11:11:11,skeller,login,Tokyo,USB-Drive,0.0,failure
+2025-06-20 18:43:22,aimee33,print,New York,Printer,188.81,success
+2025-06-15 00:31:28,aimee33,file_access,New York,Printer,949.6,failure
+2025-05-30 06:53:56,bryan80,login,San Francisco,Laptop,0.0,success
+2025-06-06 23:28:17,aimee33,login,San Francisco,Laptop,0.0,success
+2025-05-28 18:12:13,criley,usb_use,London,Desktop,101.08,failure
+2025-06-05 01:55:39,sean96,login,New York,USB-Drive,0.0,failure
+2025-05-28 20:29:45,hmassey,login,London,Desktop,0.0,failure
+2025-06-08 23:24:17,nhoward,file_access,London,Laptop,43.26,success
+2025-06-11 08:45:53,barbara42,usb_use,Berlin,USB-Drive,946.56,success
+2025-06-15 12:41:58,criley,print,Remote,Printer,640.5,failure
+2025-06-03 02:43:42,criley,file_access,San Francisco,Printer,587.54,success
+2025-05-28 07:45:44,juancampos,file_access,London,USB-Drive,338.17,failure
+2025-06-18 19:25:18,lorijohnson,login,London,Laptop,0.0,success
+2025-06-17 00:53:24,ostewart,file_access,San Francisco,USB-Drive,361.55,success
+2025-05-27 06:31:20,tammywoods,login,Tokyo,Desktop,0.0,success
+2025-06-23 07:35:53,tammywoods,file_access,Berlin,Laptop,303.37,failure
+2025-05-30 06:13:28,tammywoods,print,New York,Laptop,561.27,failure
+2025-06-13 08:30:45,lindawest,usb_use,London,Laptop,479.61,failure
+2025-06-04 00:54:32,john51,login,London,USB-Drive,0.0,success
+2025-06-06 23:43:11,christopher91,file_access,Remote,Printer,806.31,success
+2025-06-11 18:23:23,thull,login,San Francisco,Desktop,0.0,success
+2025-06-17 04:29:03,salazarmaria,login,New York,Printer,0.0,failure
+2025-06-22 00:28:16,sallywalker,print,Berlin,Desktop,423.62,failure
+2025-06-02 14:02:12,thomas15,usb_use,Berlin,Desktop,431.79,failure
+2025-06-04 05:38:17,nhoward,login,Remote,Laptop,0.0,failure
+2025-05-28 04:16:37,sandrakirby,file_access,New York,Printer,398.56,success
+2025-06-02 00:58:09,sean96,login,San Francisco,Desktop,0.0,success
+2025-06-02 05:19:58,kyleblair,print,Tokyo,USB-Drive,546.84,success
+2025-06-10 23:27:56,nhoward,print,San Francisco,Printer,638.73,failure
+2025-06-20 01:31:29,skeller,print,Remote,USB-Drive,833.7,failure
+2025-06-06 12:42:52,sean96,file_access,Berlin,Desktop,10.69,failure
+2025-05-31 01:12:20,aimee33,usb_use,New York,Desktop,874.61,success
+2025-06-23 07:57:18,aimee33,print,Berlin,USB-Drive,718.41,failure
+2025-06-15 19:58:33,thull,login,Berlin,Laptop,0.0,success
+2025-06-02 20:19:20,thomas15,file_access,New York,USB-Drive,16.27,failure
+2025-05-26 00:01:34,bryan80,file_access,San Francisco,Printer,968.63,failure
+2025-06-17 06:07:34,skeller,login,Berlin,Laptop,0.0,success
+2025-06-14 06:13:01,thomas12,print,San Francisco,USB-Drive,535.88,failure
+2025-06-21 23:42:25,aimee33,print,Tokyo,Desktop,851.47,success
+2025-06-19 01:12:17,barbara42,login,Remote,Desktop,0.0,failure
+2025-06-09 11:30:13,kaisernancy,usb_use,London,Laptop,494.02,failure
+2025-06-11 16:45:16,aimee33,usb_use,Tokyo,Printer,810.23,success
+2025-06-13 05:26:37,vanessa89,file_access,San Francisco,USB-Drive,729.72,failure
+2025-06-06 13:00:01,greenwilliam,login,Tokyo,Printer,0.0,success
+2025-06-01 19:22:53,lindawest,login,Remote,Desktop,0.0,failure
+2025-06-21 13:47:21,john51,login,Berlin,Printer,0.0,failure
+2025-05-25 23:07:55,sallywalker,login,New York,Printer,0.0,success
+2025-06-16 14:11:53,achang,login,Berlin,Desktop,0.0,failure
+2025-05-29 04:46:13,nhoward,usb_use,San Francisco,Printer,783.63,failure
+2025-06-10 16:00:50,nhoward,login,Berlin,Printer,0.0,failure
+2025-05-27 13:52:58,sean96,login,Remote,USB-Drive,0.0,success
+2025-06-20 18:49:15,christopher91,print,London,Laptop,519.49,success
+2025-06-07 23:53:43,greenwilliam,print,Tokyo,USB-Drive,756.86,failure
+2025-05-31 21:44:23,cortezraymond,login,New York,Laptop,0.0,failure
+2025-06-06 00:24:53,ostewart,login,Berlin,Desktop,0.0,success
+2025-06-17 18:00:43,thull,print,Berlin,USB-Drive,945.54,success
+2025-06-11 11:00:55,john51,print,New York,Laptop,416.23,success
+2025-06-23 23:30:08,john51,file_access,Remote,Laptop,791.55,failure
+2025-06-08 08:02:41,barbara42,print,New York,Printer,919.36,failure
+2025-06-11 19:08:33,thomas12,usb_use,New York,USB-Drive,71.26,failure
+2025-06-23 00:21:58,lorijohnson,login,London,USB-Drive,0.0,success
+2025-05-31 18:50:06,achang,file_access,London,Laptop,596.99,success
+2025-06-09 10:09:56,kyleblair,login,San Francisco,Laptop,0.0,success
+2025-06-13 04:42:56,tammywoods,usb_use,Remote,Laptop,932.86,success
+2025-06-14 11:28:29,criley,file_access,San Francisco,Printer,113.28,failure
+2025-05-29 06:41:31,lorijohnson,usb_use,San Francisco,Laptop,966.55,failure
+2025-05-25 10:25:07,bryan80,print,London,USB-Drive,937.19,failure
+2025-06-23 05:22:30,vanessa89,login,New York,USB-Drive,0.0,success
+2025-06-03 16:41:58,salazarmaria,file_access,San Francisco,Desktop,316.58,success
+2025-06-10 14:14:56,thomas15,file_access,London,USB-Drive,420.37,success
+2025-06-02 03:08:57,criley,file_access,Berlin,Laptop,394.41,success
+2025-06-05 23:34:57,juancampos,print,London,Printer,741.14,success
+2025-06-05 04:34:14,jasmine85,print,London,USB-Drive,85.47,failure
+2025-06-16 02:45:29,sean96,usb_use,Remote,Laptop,377.06,success
+2025-06-12 17:47:59,john51,usb_use,Tokyo,Desktop,372.22,failure
+2025-06-21 22:35:13,thull,file_access,New York,USB-Drive,113.05,success
+2025-06-14 11:27:40,hmassey,print,Tokyo,Desktop,767.87,failure
+2025-05-26 21:23:45,vanessa89,file_access,Tokyo,USB-Drive,937.17,success
+2025-06-13 21:19:04,cortezraymond,print,Remote,Laptop,483.8,success
+2025-06-21 21:47:45,tammywoods,login,Remote,Printer,0.0,failure
+2025-06-14 15:54:43,achang,file_access,London,Laptop,768.87,failure
+2025-05-27 15:08:42,jrodriguez,file_access,Tokyo,Printer,93.46,failure
+2025-06-02 09:40:05,sandrakirby,file_access,Berlin,Printer,280.81,success
+2025-06-15 23:30:56,nhoward,usb_use,Remote,Laptop,1.25,failure
+2025-05-28 11:04:32,kaisernancy,print,Tokyo,Laptop,746.8,failure
+2025-06-06 22:39:50,tammywoods,file_access,Berlin,Laptop,36.42,failure
+2025-06-02 00:21:39,tammywoods,usb_use,New York,Desktop,890.81,success
+2025-06-16 00:41:43,thull,print,London,USB-Drive,520.31,success
+2025-06-19 23:18:36,jrodriguez,login,Tokyo,Printer,0.0,failure
+2025-06-18 00:20:54,tammywoods,print,London,Desktop,157.91,success
+2025-06-21 14:43:36,salazarmaria,print,Berlin,Printer,140.39,failure
+2025-06-23 16:19:38,cortezraymond,print,Remote,Printer,218.79,failure
+2025-05-25 08:43:24,lorijohnson,usb_use,Tokyo,Laptop,444.54,success
+2025-05-27 05:58:35,thomas12,print,New York,Desktop,26.52,failure
+2025-06-18 08:52:24,salazarmaria,login,Berlin,Laptop,0.0,success
+2025-06-10 04:23:41,barbara42,print,New York,USB-Drive,42.14,success
+2025-06-09 12:13:01,ostewart,usb_use,Remote,Desktop,141.54,failure
+2025-06-17 00:36:41,kyleblair,login,Tokyo,Printer,0.0,failure
+2025-05-27 18:43:49,salazarmaria,file_access,London,Printer,648.36,failure
+2025-06-14 12:18:46,juancampos,print,Remote,Desktop,524.64,success
+2025-06-03 11:40:48,kyleblair,file_access,Tokyo,USB-Drive,789.55,failure
+2025-06-20 23:45:50,john51,print,Tokyo,Desktop,795.79,failure
+2025-05-29 09:53:20,kyleblair,login,Tokyo,Laptop,0.0,success
+2025-05-31 16:42:41,sean96,login,San Francisco,USB-Drive,0.0,success
+2025-05-26 01:48:13,thomas12,file_access,San Francisco,USB-Drive,612.89,failure
+2025-06-13 20:47:35,sandrakirby,usb_use,Tokyo,Printer,54.89,failure
+2025-06-14 15:02:53,jasmine85,print,Tokyo,USB-Drive,704.41,success
+2025-06-09 17:00:57,bryan80,usb_use,New York,Laptop,53.5,failure
+2025-05-25 12:35:44,achang,usb_use,Remote,Laptop,141.27,failure
+2025-06-04 17:25:01,barbara42,file_access,Berlin,Printer,558.21,success
+2025-05-26 01:17:36,sallywalker,file_access,London,Laptop,606.75,success
+2025-05-25 11:23:22,hmassey,usb_use,London,Printer,893.58,failure
+2025-06-20 00:12:37,achang,login,San Francisco,USB-Drive,0.0,success
+2025-06-24 01:44:47,kyleblair,usb_use,San Francisco,Desktop,252.03,failure
+2025-05-30 02:34:11,tammywoods,print,London,Printer,344.6,success
+2025-06-03 14:32:40,greenwilliam,usb_use,Berlin,Laptop,10.2,failure
+2025-05-31 03:10:33,thomas12,print,New York,Printer,978.91,failure
+2025-06-23 21:25:59,sallywalker,login,New York,Laptop,0.0,success
+2025-06-03 23:55:52,nhoward,file_access,Tokyo,Desktop,441.2,success
+2025-06-09 00:58:58,aimee33,print,Berlin,Printer,40.31,success
+2025-06-07 22:50:46,thomas15,print,San Francisco,Desktop,840.62,failure
+2025-06-03 04:56:44,christopher91,usb_use,London,Printer,108.18,failure
+2025-05-30 05:21:42,tamaramorrison,file_access,Remote,USB-Drive,777.69,failure
+2025-06-17 10:45:47,jrodriguez,usb_use,London,Desktop,17.54,success
+2025-06-13 14:49:38,vanessa89,print,San Francisco,Desktop,285.27,success
+2025-05-29 07:25:01,thomas12,print,New York,Laptop,385.31,failure
+2025-05-26 10:05:40,nhoward,usb_use,San Francisco,USB-Drive,222.34,success
+2025-06-07 16:42:27,thull,usb_use,Remote,USB-Drive,234.37,failure
+2025-06-16 08:24:02,tammywoods,file_access,San Francisco,Laptop,553.57,failure
+2025-05-30 23:32:07,cortezraymond,login,San Francisco,Printer,0.0,success
+2025-06-06 19:28:25,vanessa89,login,San Francisco,Desktop,0.0,failure
+2025-05-31 20:05:20,jasmine85,file_access,San Francisco,Desktop,816.36,failure
+2025-06-19 15:29:42,cortezraymond,file_access,Remote,Printer,900.91,success
+2025-06-11 04:59:19,tamaramorrison,login,Berlin,USB-Drive,0.0,failure
+2025-05-30 22:45:17,sallywalker,usb_use,New York,Desktop,555.97,success
+2025-06-01 20:34:42,barbara42,print,Remote,Printer,546.48,success
+2025-06-07 21:00:49,ostewart,file_access,Berlin,Printer,703.72,failure
+2025-05-26 06:17:00,hmassey,usb_use,Tokyo,Laptop,209.45,failure
+2025-05-27 09:55:23,thomas12,file_access,London,Printer,668.76,success
+2025-05-27 08:01:08,ostewart,usb_use,Remote,Desktop,305.6,failure
+2025-06-04 08:20:32,jasmine85,login,Remote,Desktop,0.0,failure
+2025-06-06 23:10:46,achang,print,Remote,Laptop,25.54,success
+2025-06-21 11:10:27,achang,file_access,Remote,USB-Drive,67.48,success
+2025-06-09 15:18:36,cortezraymond,print,San Francisco,Desktop,449.52,success
+2025-06-12 04:06:18,cortezraymond,usb_use,San Francisco,USB-Drive,728.34,failure
+2025-06-21 21:47:26,salazarmaria,login,Tokyo,USB-Drive,0.0,failure
+2025-05-27 09:34:53,sandrakirby,login,Berlin,Laptop,0.0,failure
+2025-06-23 20:32:38,salazarmaria,file_access,New York,Desktop,622.22,success
+2025-06-18 08:45:37,thull,usb_use,San Francisco,Desktop,247.55,success
+2025-06-16 15:01:31,hmassey,file_access,Remote,Desktop,718.08,failure
+2025-06-15 11:58:04,christopher91,login,Berlin,Printer,0.0,success
+2025-06-12 10:34:39,tamaramorrison,login,London,USB-Drive,0.0,failure
+2025-06-20 11:22:30,achang,login,Tokyo,Laptop,0.0,failure
+2025-06-03 00:21:49,tammywoods,file_access,Tokyo,Desktop,507.93,success
+2025-06-04 10:47:55,thomas12,print,London,USB-Drive,803.52,failure
+2025-06-12 14:13:26,achang,usb_use,Berlin,USB-Drive,550.9,success
+2025-06-22 20:41:36,sandrakirby,usb_use,Remote,Laptop,456.46,success
+2025-06-08 11:43:25,salazarmaria,usb_use,Tokyo,Laptop,21.66,success
+2025-05-25 19:00:31,ostewart,usb_use,Remote,Desktop,762.83,failure
+2025-06-01 01:57:24,salazarmaria,usb_use,San Francisco,Laptop,566.47,failure
+2025-06-01 16:35:51,hmassey,file_access,Berlin,USB-Drive,163.39,success
+2025-06-07 12:48:56,bryan80,login,Berlin,Laptop,0.0,success
+2025-06-10 13:05:30,cortezraymond,usb_use,London,USB-Drive,323.68,failure
+2025-06-10 17:52:18,tamaramorrison,print,San Francisco,Laptop,788.55,success
+2025-06-12 04:27:48,sallywalker,file_access,London,Laptop,948.66,failure
+2025-05-29 21:49:11,christopher91,usb_use,Remote,Desktop,71.18,failure
+2025-06-10 18:44:22,ostewart,file_access,Berlin,Desktop,64.22,success
+2025-05-27 02:11:45,jasmine85,login,Berlin,Printer,0.0,failure
+2025-05-27 08:38:51,ostewart,usb_use,London,Laptop,429.27,failure
+2025-06-07 10:46:31,ostewart,usb_use,London,Desktop,705.87,failure
+2025-06-02 07:33:14,hmassey,file_access,New York,Desktop,784.86,failure
+2025-06-01 14:43:30,cortezraymond,print,New York,Printer,637.03,success
+2025-06-22 16:24:45,skeller,login,London,Desktop,0.0,success
+2025-06-08 09:58:14,sean96,usb_use,Remote,Printer,20.12,success
+2025-06-11 21:07:46,jasmine85,file_access,London,Desktop,945.0,failure
+2025-06-13 12:36:31,thull,print,San Francisco,Printer,863.9,success
+2025-06-20 23:40:23,kyleblair,file_access,Tokyo,Laptop,928.06,failure
+2025-05-31 15:41:07,ostewart,usb_use,Tokyo,USB-Drive,610.08,success
+2025-06-08 14:29:12,tammywoods,login,Tokyo,Laptop,0.0,failure
+2025-05-30 22:30:24,kyleblair,print,Tokyo,Printer,775.67,failure
+2025-06-17 13:37:42,lorijohnson,login,Berlin,Printer,0.0,failure
+2025-06-05 23:55:14,aimee33,file_access,Berlin,USB-Drive,328.79,success
+2025-05-27 16:51:55,salazarmaria,print,Berlin,Desktop,42.54,failure
+2025-06-09 07:20:55,cortezraymond,login,New York,Desktop,0.0,success
+2025-06-03 01:52:35,barbara42,print,New York,USB-Drive,928.2,success
+2025-06-19 18:02:25,bryan80,print,San Francisco,USB-Drive,407.01,success
+2025-05-28 19:12:14,tamaramorrison,file_access,Tokyo,USB-Drive,511.98,success
+2025-06-09 01:16:46,juancampos,file_access,Tokyo,Laptop,730.08,success
+2025-06-13 22:22:07,aimee33,print,San Francisco,USB-Drive,800.35,success
+2025-06-10 07:23:49,thull,file_access,London,Desktop,800.4,failure
+2025-06-08 21:15:56,lorijohnson,usb_use,London,Printer,998.54,success
+2025-06-14 11:49:42,sandrakirby,print,Berlin,Desktop,39.56,success
+2025-05-30 15:13:51,sean96,login,London,Laptop,0.0,success
+2025-05-30 04:27:09,sean96,print,Berlin,Desktop,812.46,success
+2025-06-21 14:03:25,lorijohnson,usb_use,Remote,Desktop,477.01,success
+2025-06-17 17:14:56,jrodriguez,login,Berlin,USB-Drive,0.0,success
+2025-06-17 08:53:53,aimee33,login,New York,Printer,0.0,failure
+2025-06-10 17:22:12,jasmine85,print,London,Printer,512.89,success
+2025-06-11 01:01:33,juancampos,usb_use,New York,Desktop,734.02,success
+2025-05-31 09:29:30,bryan80,file_access,New York,Printer,645.75,failure
+2025-06-17 14:49:08,hmassey,print,New York,Desktop,358.53,success
+2025-05-30 23:48:07,john51,login,Tokyo,USB-Drive,0.0,failure
+2025-06-18 12:32:43,barbara42,usb_use,Berlin,Printer,412.81,success
+2025-06-15 01:35:32,sallywalker,usb_use,San Francisco,Printer,65.03,success
+2025-05-27 04:42:40,nhoward,login,London,Laptop,0.0,success
+2025-06-09 00:23:07,salazarmaria,login,London,Printer,0.0,failure
+2025-06-10 15:02:29,lindawest,login,New York,Printer,0.0,failure
+2025-06-01 22:00:16,achang,login,New York,USB-Drive,0.0,failure
+2025-06-02 10:41:41,nhoward,print,New York,Desktop,909.15,failure
+2025-06-21 18:19:05,greenwilliam,login,Tokyo,USB-Drive,0.0,success
+2025-06-12 14:12:54,jrodriguez,file_access,San Francisco,Desktop,779.55,success
+2025-05-29 13:54:50,sean96,file_access,Berlin,USB-Drive,945.65,failure
+2025-05-28 13:20:44,skeller,print,New York,Desktop,241.05,failure
+2025-05-29 11:17:23,bryan80,file_access,San Francisco,USB-Drive,226.81,failure
+2025-06-03 23:22:35,sallywalker,usb_use,Berlin,Desktop,387.12,success
+2025-06-05 02:11:41,vanessa89,login,Remote,Printer,0.0,success
+2025-05-28 07:53:41,juancampos,login,New York,USB-Drive,0.0,success
+2025-06-13 00:58:52,greenwilliam,login,New York,Desktop,0.0,success
+2025-05-25 17:47:23,barbara42,print,New York,Printer,436.83,failure
+2025-05-30 02:54:36,lorijohnson,file_access,San Francisco,USB-Drive,510.74,failure
+2025-06-13 11:27:44,thull,file_access,Tokyo,USB-Drive,966.08,failure
+2025-06-21 08:58:57,skeller,print,San Francisco,Printer,382.38,failure
+2025-06-19 13:19:33,thomas15,print,Tokyo,Laptop,835.75,failure
+2025-06-08 10:18:30,skeller,usb_use,Berlin,Laptop,604.43,failure
+2025-06-16 03:14:05,skeller,file_access,London,Laptop,611.36,failure
+2025-06-18 01:55:29,sean96,login,Berlin,Laptop,0.0,success
+2025-06-22 18:05:15,lorijohnson,print,New York,Printer,731.27,failure
+2025-06-04 21:45:41,john51,login,Remote,Printer,0.0,failure
+2025-06-14 21:31:04,vanessa89,file_access,London,Printer,411.69,failure
+2025-05-29 10:07:03,sandrakirby,login,London,USB-Drive,0.0,success
+2025-06-12 05:46:48,sean96,usb_use,Tokyo,Laptop,196.5,failure
+2025-06-05 01:07:19,vanessa89,usb_use,London,Printer,634.79,failure
+2025-06-07 00:37:57,jrodriguez,print,New York,Printer,269.8,success
+2025-06-22 18:28:58,cortezraymond,file_access,San Francisco,Laptop,613.52,success
+2025-06-02 10:43:25,achang,print,Berlin,Printer,464.06,success
+2025-06-15 07:03:06,sandrakirby,print,Berlin,Desktop,170.06,success
+2025-06-03 16:16:29,vanessa89,file_access,New York,Desktop,819.16,failure
+2025-06-11 18:20:57,skeller,usb_use,Remote,USB-Drive,684.51,failure
+2025-05-30 22:38:30,sandrakirby,usb_use,San Francisco,USB-Drive,628.35,failure
+2025-05-28 11:02:33,jrodriguez,file_access,Tokyo,USB-Drive,235.3,failure
+2025-05-26 16:49:16,cortezraymond,print,Tokyo,USB-Drive,964.67,failure
+2025-06-19 21:15:44,aimee33,login,Remote,Desktop,0.0,success
+2025-06-16 06:48:31,achang,login,Remote,Desktop,0.0,success
+2025-06-04 03:37:34,ostewart,file_access,Tokyo,Laptop,793.55,success
+2025-05-31 03:10:59,nhoward,usb_use,Remote,Printer,319.04,failure
+2025-06-18 11:47:29,cortezraymond,usb_use,Remote,Printer,812.28,success
+2025-06-13 16:17:32,christopher91,file_access,Berlin,Laptop,780.74,success
+2025-06-06 19:27:47,achang,file_access,Berlin,Printer,608.65,success
+2025-06-04 10:05:07,sallywalker,print,London,Laptop,587.85,failure
+2025-05-27 09:41:40,vanessa89,print,Berlin,Laptop,916.34,success
+2025-06-04 20:10:40,sean96,print,London,Desktop,507.29,failure
+2025-06-01 11:09:29,greenwilliam,print,Berlin,Laptop,269.42,failure
+2025-05-30 10:32:42,jrodriguez,print,Tokyo,USB-Drive,181.84,failure
+2025-06-03 23:17:40,vanessa89,usb_use,Berlin,Desktop,457.46,success
+2025-06-16 14:43:36,lindawest,print,Berlin,Printer,556.58,failure
+2025-06-12 17:04:54,lindawest,file_access,New York,USB-Drive,141.93,success
+2025-06-11 21:59:10,juancampos,login,Remote,Desktop,0.0,success
+2025-06-20 21:14:05,achang,login,Tokyo,Printer,0.0,success
+2025-06-01 16:57:36,christopher91,print,Berlin,USB-Drive,874.83,failure
+2025-05-30 10:40:51,criley,login,Remote,Laptop,0.0,success
+2025-06-23 07:18:47,thomas15,print,London,USB-Drive,225.39,failure
+2025-06-18 01:05:20,cortezraymond,usb_use,New York,Laptop,305.46,failure
+2025-06-01 13:32:37,thomas15,usb_use,Tokyo,Desktop,232.4,success
+2025-06-21 17:38:19,thomas12,print,Remote,USB-Drive,283.62,success
+2025-06-14 01:33:30,aimee33,login,Tokyo,USB-Drive,0.0,failure
+2025-06-14 21:45:06,thomas15,usb_use,Remote,USB-Drive,432.49,failure
+2025-06-19 15:55:05,salazarmaria,usb_use,New York,Printer,903.7,success
+2025-06-18 09:49:57,sallywalker,file_access,London,Desktop,743.58,failure
+2025-06-10 00:20:10,lindawest,file_access,New York,Printer,975.34,failure
+2025-06-18 13:22:06,kaisernancy,print,Berlin,Desktop,675.95,failure
+2025-06-18 13:36:29,lindawest,file_access,London,Laptop,92.8,failure
+2025-06-04 03:58:46,salazarmaria,file_access,Tokyo,Laptop,575.81,success
+2025-06-20 17:03:40,john51,login,London,Desktop,0.0,failure
+2025-06-23 23:04:37,vanessa89,login,San Francisco,USB-Drive,0.0,success
+2025-06-04 23:31:54,thomas15,login,New York,Printer,0.0,success
+2025-05-25 19:56:58,juancampos,login,Berlin,Desktop,0.0,success
+2025-06-10 21:01:41,thomas12,print,San Francisco,Laptop,520.7,failure
+2025-06-09 19:26:30,thull,file_access,San Francisco,Desktop,928.39,failure
+2025-06-09 23:35:45,lindawest,login,Tokyo,Desktop,0.0,failure
+2025-05-27 01:57:58,sandrakirby,login,Berlin,USB-Drive,0.0,success
+2025-06-19 20:26:14,jasmine85,usb_use,Remote,USB-Drive,827.25,failure
+2025-06-01 13:30:09,sean96,file_access,Berlin,Laptop,252.47,success
+2025-06-06 19:55:54,lorijohnson,login,London,Laptop,0.0,success
+2025-06-23 14:42:25,tamaramorrison,file_access,Tokyo,Desktop,573.6,failure
+2025-06-01 22:17:08,kyleblair,print,Berlin,Laptop,560.04,failure
+2025-06-12 18:12:56,nhoward,print,Tokyo,Desktop,455.45,failure
+2025-06-22 15:49:35,juancampos,print,London,Printer,79.47,failure
+2025-06-08 15:37:23,aimee33,file_access,Tokyo,Desktop,351.7,failure
+2025-06-17 04:44:06,achang,print,Remote,Laptop,552.91,failure
+2025-05-28 13:57:24,thomas15,print,San Francisco,USB-Drive,477.75,success
+2025-05-29 11:15:33,thomas15,print,London,USB-Drive,653.64,success
+2025-06-19 10:26:28,aimee33,login,San Francisco,USB-Drive,0.0,success
+2025-05-27 06:33:55,greenwilliam,file_access,London,Laptop,335.11,success
+2025-05-28 13:57:05,sandrakirby,print,Tokyo,Desktop,412.06,success
+2025-06-05 06:53:32,vanessa89,print,New York,USB-Drive,887.78,success
+2025-05-31 16:40:46,thomas12,usb_use,San Francisco,Printer,153.0,failure
+2025-05-27 07:58:57,skeller,file_access,Berlin,Printer,33.87,failure
+2025-06-08 22:41:25,skeller,usb_use,Berlin,Desktop,1.51,success
+2025-05-26 02:27:04,juancampos,file_access,Tokyo,Desktop,661.17,success
+2025-06-16 03:17:13,criley,print,Remote,USB-Drive,885.53,failure
+2025-06-10 09:48:47,lindawest,file_access,San Francisco,USB-Drive,557.81,failure
+2025-06-02 03:51:36,lorijohnson,print,Tokyo,Printer,990.03,failure
+2025-06-01 14:01:48,criley,print,New York,Desktop,220.55,success
+2025-06-16 17:26:17,sandrakirby,file_access,Tokyo,Printer,708.05,success
+2025-06-12 09:15:50,skeller,usb_use,Remote,Laptop,22.26,success
+2025-06-18 21:00:36,thull,print,Berlin,Printer,541.3,success
+2025-06-12 21:58:33,barbara42,file_access,Berlin,Printer,309.32,success
+2025-06-20 01:54:48,thull,print,New York,Desktop,419.92,failure
+2025-06-18 18:00:52,tammywoods,login,Remote,Laptop,0.0,success
+2025-05-26 23:48:38,tamaramorrison,login,Berlin,USB-Drive,0.0,success
+2025-06-22 05:15:09,sallywalker,usb_use,New York,Printer,279.18,success
+2025-05-29 18:15:14,salazarmaria,print,Remote,USB-Drive,229.08,failure
+2025-06-19 12:09:16,christopher91,login,New York,Desktop,0.0,failure
+2025-06-23 11:51:33,sean96,print,New York,Printer,435.26,failure
+2025-05-29 01:36:23,thomas12,login,New York,Printer,0.0,success
+2025-06-15 01:23:45,sandrakirby,file_access,New York,Laptop,705.79,success
+2025-06-04 08:46:20,greenwilliam,usb_use,London,Printer,116.31,failure
+2025-06-08 10:07:33,cortezraymond,file_access,Remote,Laptop,339.41,success
+2025-06-20 08:26:52,vanessa89,print,New York,USB-Drive,332.25,failure
+2025-06-23 10:04:44,nhoward,print,New York,USB-Drive,570.93,success
+2025-06-14 15:27:44,criley,file_access,Tokyo,Laptop,520.71,success
+2025-06-17 18:27:44,cortezraymond,login,Berlin,Desktop,0.0,success
+2025-06-13 05:21:30,lorijohnson,file_access,Tokyo,Desktop,609.17,failure
+2025-06-23 20:20:59,cortezraymond,file_access,London,USB-Drive,973.87,success
+2025-06-22 19:50:05,kyleblair,print,London,Desktop,277.54,success
+2025-06-05 16:46:22,thull,usb_use,London,USB-Drive,36.07,success
+2025-05-26 08:30:20,tammywoods,login,San Francisco,USB-Drive,0.0,success
+2025-05-25 08:55:23,kaisernancy,usb_use,Tokyo,Laptop,415.2,failure
+2025-06-03 04:39:06,nhoward,login,Berlin,Printer,0.0,failure
+2025-06-09 01:00:47,vanessa89,usb_use,San Francisco,Printer,673.96,failure
+2025-06-18 23:10:29,greenwilliam,login,New York,USB-Drive,0.0,success
+2025-06-22 01:03:05,criley,usb_use,London,USB-Drive,49.38,success
+2025-06-06 17:06:34,criley,file_access,London,Laptop,786.17,failure
+2025-06-10 12:14:59,ostewart,file_access,London,USB-Drive,910.62,failure
+2025-05-28 13:05:47,skeller,print,Remote,Laptop,424.23,success
+2025-06-18 07:37:25,kaisernancy,login,San Francisco,Printer,0.0,failure
+2025-06-07 01:54:13,achang,file_access,New York,USB-Drive,99.32,success
+2025-06-09 01:26:09,skeller,file_access,Tokyo,Laptop,893.62,failure
+2025-06-14 04:04:56,kaisernancy,print,New York,Desktop,500.33,failure
+2025-06-13 00:13:16,salazarmaria,print,Tokyo,Laptop,165.07,failure
+2025-06-12 23:39:42,kyleblair,file_access,San Francisco,Desktop,799.13,success
+2025-05-28 09:10:46,vanessa89,usb_use,Berlin,Laptop,182.07,failure
+2025-06-02 07:28:41,christopher91,file_access,San Francisco,Desktop,881.19,success
+2025-05-31 12:58:56,thomas12,file_access,Berlin,USB-Drive,798.8,success
+2025-06-05 23:02:30,thomas12,print,San Francisco,Laptop,412.63,failure
+2025-06-08 07:07:29,kaisernancy,print,San Francisco,Printer,533.68,failure
+2025-06-10 13:48:34,nhoward,file_access,New York,Laptop,899.22,success
+2025-05-28 01:20:11,achang,file_access,Remote,Printer,450.93,failure
+2025-05-27 02:30:31,john51,usb_use,Remote,Printer,259.0,success
+2025-06-17 17:26:00,skeller,file_access,Berlin,Desktop,741.03,success
+2025-06-14 15:29:31,sandrakirby,login,Berlin,Laptop,0.0,failure
+2025-06-01 04:48:31,thomas15,print,Remote,Desktop,600.22,failure
+2025-06-18 05:40:02,achang,file_access,London,USB-Drive,367.66,failure
+2025-06-23 13:59:05,kaisernancy,usb_use,San Francisco,Laptop,479.97,success
+2025-05-29 07:44:11,tamaramorrison,print,London,Printer,302.12,success
+2025-06-01 17:00:21,lindawest,usb_use,Remote,USB-Drive,349.65,failure
+2025-06-11 11:39:06,salazarmaria,print,Remote,USB-Drive,674.91,success
+2025-06-14 07:39:20,kyleblair,print,San Francisco,USB-Drive,514.86,success
+2025-05-27 01:37:48,hmassey,print,London,USB-Drive,433.99,failure
+2025-06-24 01:24:26,christopher91,login,Remote,Desktop,0.0,failure
+2025-06-16 23:53:49,sallywalker,login,New York,Desktop,0.0,success
+2025-06-13 03:09:40,criley,usb_use,New York,Desktop,939.61,success
+2025-06-16 15:16:46,tamaramorrison,file_access,Remote,USB-Drive,609.79,failure
+2025-05-27 15:26:24,achang,login,New York,Desktop,0.0,failure
+2025-05-30 06:52:34,aimee33,file_access,Tokyo,Printer,738.6,failure
+2025-06-17 05:16:06,thull,print,New York,Laptop,768.31,success
+2025-06-01 16:59:56,tamaramorrison,usb_use,London,Desktop,870.73,failure
+2025-05-26 08:12:36,kyleblair,usb_use,San Francisco,Desktop,496.81,success
+2025-05-26 22:28:04,tamaramorrison,print,Berlin,Desktop,906.03,success
+2025-06-23 09:42:47,john51,login,Remote,Desktop,0.0,success
+2025-06-24 07:57:59,john51,usb_use,London,Desktop,714.71,failure
+2025-05-31 19:15:06,juancampos,usb_use,Remote,USB-Drive,486.56,failure
+2025-06-10 02:01:36,tamaramorrison,usb_use,London,Laptop,459.2,success
+2025-05-30 11:19:04,skeller,login,Berlin,USB-Drive,0.0,failure
+2025-06-21 00:26:29,tamaramorrison,print,Tokyo,Desktop,607.87,failure
+2025-06-11 04:32:24,sandrakirby,file_access,Remote,Laptop,584.94,success
+2025-06-03 19:48:12,aimee33,file_access,Remote,Printer,294.91,success
+2025-06-12 23:21:09,barbara42,print,London,USB-Drive,785.34,failure
+2025-06-18 03:54:23,kaisernancy,login,New York,Laptop,0.0,success
+2025-05-30 17:57:48,sandrakirby,file_access,New York,Printer,385.68,failure
+2025-05-28 06:44:06,skeller,login,London,Desktop,0.0,success
+2025-06-23 23:29:01,lorijohnson,print,Remote,Desktop,49.66,failure
+2025-06-17 00:57:24,christopher91,login,New York,Printer,0.0,success
+2025-06-24 04:23:24,jrodriguez,usb_use,Tokyo,Printer,892.16,success
+2025-06-10 18:17:04,thomas12,print,Berlin,Desktop,561.01,success
+2025-05-31 09:29:25,sean96,file_access,Berlin,Desktop,830.95,failure
+2025-06-08 17:57:28,tammywoods,usb_use,London,Desktop,403.74,success
+2025-05-31 12:44:08,criley,login,Berlin,Laptop,0.0,success
+2025-06-13 04:16:57,sean96,usb_use,San Francisco,Desktop,832.8,success
+2025-06-08 14:56:55,nhoward,usb_use,New York,USB-Drive,837.72,failure
+2025-05-31 06:15:41,jasmine85,login,New York,USB-Drive,0.0,success
+2025-06-19 13:19:48,ostewart,print,London,Printer,471.05,success
+2025-06-03 12:59:32,thull,usb_use,Tokyo,Printer,776.77,failure
+2025-05-27 05:07:51,jrodriguez,print,Berlin,Laptop,906.54,success
+2025-06-13 09:23:11,sean96,print,Berlin,USB-Drive,149.04,success
+2025-06-15 22:36:56,juancampos,file_access,New York,Printer,644.89,success
+2025-06-12 09:34:00,barbara42,login,Berlin,USB-Drive,0.0,failure
+2025-06-03 14:33:54,cortezraymond,print,Tokyo,USB-Drive,744.19,failure
+2025-06-16 11:18:14,kaisernancy,usb_use,San Francisco,Laptop,725.48,failure
+2025-06-11 16:03:29,bryan80,login,San Francisco,Laptop,0.0,failure
+2025-05-29 00:25:11,nhoward,usb_use,Tokyo,Desktop,546.2,success
+2025-05-27 12:39:11,greenwilliam,usb_use,New York,USB-Drive,180.64,failure
+2025-05-27 07:13:25,lindawest,print,Tokyo,Laptop,811.35,success
+2025-06-17 23:03:58,sean96,print,Remote,USB-Drive,683.73,success
+2025-06-06 18:11:21,christopher91,login,Remote,Printer,0.0,success
+2025-05-26 15:41:57,aimee33,print,Remote,USB-Drive,685.27,failure
+2025-06-19 14:33:37,kyleblair,login,Remote,Printer,0.0,success
+2025-06-21 23:52:29,tamaramorrison,print,London,USB-Drive,978.32,success
+2025-06-22 02:50:03,kaisernancy,print,Tokyo,Desktop,369.27,failure
+2025-06-04 20:16:37,thomas15,file_access,London,Desktop,536.92,failure
+2025-06-05 12:12:37,sallywalker,file_access,Berlin,USB-Drive,624.36,success
+2025-05-29 21:33:01,bryan80,file_access,San Francisco,USB-Drive,550.84,success
+2025-06-18 17:59:46,skeller,print,Tokyo,Desktop,692.14,failure
+2025-06-19 18:48:39,tamaramorrison,file_access,Remote,Laptop,541.28,success
+2025-06-14 18:06:27,tammywoods,print,London,Desktop,354.59,failure
+2025-06-18 23:27:53,bryan80,login,New York,Desktop,0.0,success
+2025-06-09 04:21:23,tamaramorrison,file_access,Berlin,Printer,81.85,failure
+2025-05-30 20:48:56,lorijohnson,print,Tokyo,USB-Drive,848.65,failure
+2025-06-01 10:23:03,greenwilliam,login,New York,USB-Drive,0.0,success
+2025-06-15 00:56:02,sandrakirby,usb_use,Berlin,Printer,309.57,failure
+2025-06-21 20:05:44,criley,print,London,Desktop,946.1,success
+2025-06-14 20:22:27,thomas12,login,Remote,Laptop,0.0,success
+2025-05-29 10:32:49,criley,usb_use,Remote,Laptop,901.23,success
+2025-05-30 10:42:08,achang,login,New York,USB-Drive,0.0,success
+2025-06-14 12:53:59,aimee33,print,Remote,Desktop,772.4,success
+2025-05-28 09:57:11,ostewart,usb_use,San Francisco,Desktop,590.78,success
+2025-05-30 04:13:55,juancampos,file_access,San Francisco,USB-Drive,496.51,failure
+2025-06-14 12:20:27,juancampos,usb_use,San Francisco,Laptop,137.22,failure
+2025-06-01 22:34:43,vanessa89,file_access,Berlin,Laptop,352.1,failure
+2025-05-26 20:24:42,barbara42,file_access,Remote,USB-Drive,82.48,failure
+2025-06-16 01:06:27,hmassey,file_access,New York,Desktop,824.09,success
+2025-06-15 06:53:41,john51,file_access,San Francisco,Printer,539.01,failure
+2025-06-14 14:30:20,thomas15,file_access,Tokyo,USB-Drive,664.5,failure
+2025-05-26 19:45:06,thomas15,usb_use,Remote,Desktop,101.28,failure
+2025-06-18 11:15:09,ostewart,usb_use,Berlin,USB-Drive,218.65,failure
+2025-06-10 02:42:41,thull,file_access,Tokyo,Laptop,954.22,success
+2025-06-06 14:55:36,kaisernancy,file_access,Remote,Printer,145.04,failure
+2025-05-29 04:08:48,skeller,file_access,San Francisco,Laptop,265.8,failure
+2025-06-11 11:20:18,salazarmaria,login,London,Printer,0.0,failure
+2025-05-28 18:34:57,jrodriguez,file_access,Remote,Desktop,656.41,failure
+2025-05-31 06:03:30,tamaramorrison,print,Berlin,Printer,210.92,success
+2025-06-11 19:12:11,salazarmaria,login,New York,Printer,0.0,success
+2025-05-26 18:52:12,kaisernancy,print,Remote,Desktop,33.25,success
+2025-06-11 03:06:55,thomas15,login,Berlin,Printer,0.0,failure
+2025-06-11 05:56:58,thull,file_access,Berlin,Desktop,219.28,success
+2025-06-02 23:55:12,kyleblair,login,Berlin,Desktop,0.0,success
+2025-05-25 20:15:07,jrodriguez,print,Berlin,Printer,864.86,failure
+2025-06-05 13:11:13,barbara42,print,Remote,Laptop,351.44,success
+2025-06-12 02:50:00,lorijohnson,login,San Francisco,Printer,0.0,success
+2025-05-28 18:48:06,kaisernancy,file_access,New York,Desktop,237.36,failure
+2025-06-23 07:43:09,thull,usb_use,Remote,USB-Drive,392.79,failure
+2025-06-01 07:35:20,skeller,login,Berlin,Laptop,0.0,failure
+2025-06-04 10:57:17,cortezraymond,login,San Francisco,Desktop,0.0,failure
+2025-05-25 12:24:30,christopher91,file_access,New York,Printer,283.63,failure
+2025-06-04 07:14:28,thomas12,file_access,New York,USB-Drive,320.87,success
+2025-05-31 08:10:02,cortezraymond,file_access,San Francisco,USB-Drive,521.92,failure
+2025-05-25 17:00:48,sean96,print,Tokyo,Laptop,143.58,success
+2025-06-08 14:19:07,tammywoods,file_access,Berlin,Desktop,830.27,failure
+2025-06-12 06:42:38,cortezraymond,file_access,Berlin,Desktop,876.3,failure
+2025-05-26 13:21:43,ostewart,file_access,New York,Desktop,140.16,failure
+2025-06-23 17:20:31,christopher91,file_access,New York,USB-Drive,750.3,success
+2025-06-05 15:56:52,barbara42,usb_use,Remote,Laptop,101.9,success
+2025-06-01 05:57:13,kaisernancy,login,New York,Laptop,0.0,failure
+2025-06-03 10:30:14,aimee33,usb_use,Remote,USB-Drive,703.01,failure
+2025-06-16 09:38:49,vanessa89,file_access,Remote,Laptop,679.15,success
+2025-05-30 19:35:16,lindawest,file_access,New York,Desktop,144.4,success
+2025-06-17 12:01:53,criley,file_access,Berlin,Desktop,68.85,failure
+2025-06-11 01:57:20,nhoward,usb_use,Berlin,Printer,577.62,failure
+2025-06-06 21:29:22,jasmine85,print,New York,Laptop,142.22,failure
+2025-05-31 16:17:14,greenwilliam,usb_use,London,USB-Drive,637.61,failure
+2025-05-26 17:11:27,skeller,login,London,Desktop,0.0,success
+2025-06-04 11:07:13,sandrakirby,login,Berlin,Desktop,0.0,success
+2025-06-11 22:40:58,criley,file_access,Tokyo,USB-Drive,974.11,success
+2025-06-10 14:57:41,sandrakirby,usb_use,Tokyo,Desktop,711.1,failure
+2025-06-17 08:09:33,christopher91,file_access,London,Laptop,445.71,failure
+2025-06-08 13:35:01,thomas15,usb_use,London,Laptop,368.55,failure
+2025-06-08 17:54:41,achang,print,Remote,Printer,52.92,failure
+2025-06-21 05:10:21,kaisernancy,print,Tokyo,Desktop,161.16,success
+2025-06-10 05:36:24,ostewart,login,Tokyo,USB-Drive,0.0,success
+2025-06-03 07:04:16,lindawest,print,London,Printer,133.58,failure
+2025-06-23 03:33:37,ostewart,file_access,Remote,Laptop,208.54,failure
+2025-05-29 06:47:31,lorijohnson,login,Remote,Laptop,0.0,failure
+2025-05-30 08:09:27,tammywoods,usb_use,Berlin,Desktop,331.09,success
+2025-06-20 05:53:53,sean96,login,San Francisco,USB-Drive,0.0,failure
+2025-06-22 13:22:52,sallywalker,file_access,Remote,USB-Drive,428.26,failure
+2025-06-09 07:12:43,john51,usb_use,Berlin,Laptop,986.47,failure
+2025-06-01 22:51:55,juancampos,login,New York,Printer,0.0,failure
+2025-06-12 15:24:02,thomas15,print,Remote,Laptop,422.44,failure
+2025-06-01 11:49:29,tamaramorrison,file_access,London,USB-Drive,527.31,failure
+2025-05-31 10:33:11,achang,file_access,New York,Laptop,339.96,failure
+2025-06-05 04:14:38,sallywalker,file_access,San Francisco,USB-Drive,881.65,failure
+2025-06-09 16:40:58,ostewart,file_access,Tokyo,Printer,15.84,success
+2025-06-19 00:53:34,nhoward,usb_use,Remote,Desktop,313.16,success
+2025-06-06 03:34:13,kaisernancy,usb_use,New York,Laptop,545.21,failure
+2025-06-05 20:22:06,thomas12,login,San Francisco,Laptop,0.0,success
+2025-06-03 06:57:12,sallywalker,file_access,San Francisco,Printer,258.57,success
+2025-06-08 11:45:06,sallywalker,login,Berlin,Printer,0.0,success
+2025-06-12 10:35:32,nhoward,login,London,Laptop,0.0,failure
+2025-06-14 17:43:41,kyleblair,usb_use,Remote,Printer,230.3,failure
+2025-05-27 14:32:04,vanessa89,print,Remote,Laptop,589.43,success
+2025-05-31 18:42:22,tammywoods,usb_use,Berlin,USB-Drive,473.43,failure
+2025-06-23 13:06:04,skeller,usb_use,London,USB-Drive,775.63,success
+2025-05-26 08:35:05,skeller,file_access,Tokyo,USB-Drive,643.04,failure
+2025-06-13 11:27:15,lindawest,usb_use,Remote,Desktop,21.99,success
+2025-05-29 03:25:38,sallywalker,file_access,San Francisco,Printer,951.33,failure
+2025-05-28 21:56:23,jrodriguez,file_access,New York,Printer,414.53,failure
+2025-05-31 18:27:27,hmassey,print,London,Laptop,198.2,success
+2025-06-14 18:14:53,thull,print,San Francisco,Laptop,719.37,failure
+2025-06-08 21:27:12,tamaramorrison,usb_use,San Francisco,Laptop,428.65,failure
+2025-06-21 02:20:40,lorijohnson,usb_use,Remote,Laptop,198.49,failure
+2025-06-14 14:11:27,aimee33,print,Tokyo,USB-Drive,65.14,success
+2025-06-01 06:24:54,thull,usb_use,Tokyo,Printer,381.59,success
+2025-06-23 01:17:48,tammywoods,print,Tokyo,Laptop,628.28,failure
+2025-06-14 20:31:41,barbara42,print,San Francisco,Printer,674.91,failure
+2025-06-08 19:52:14,christopher91,print,Remote,USB-Drive,470.22,failure
+2025-06-11 13:44:23,tammywoods,print,Berlin,Desktop,347.31,failure
+2025-05-29 11:09:26,sallywalker,print,London,Laptop,682.03,failure
+2025-06-06 09:39:06,thomas15,print,New York,USB-Drive,156.84,failure
+2025-06-15 22:53:07,skeller,login,New York,Desktop,0.0,success
+2025-06-12 06:51:26,thomas15,file_access,New York,Printer,675.5,success
+2025-06-20 01:12:50,tammywoods,print,Tokyo,USB-Drive,957.97,success
+2025-05-28 04:03:04,vanessa89,print,San Francisco,Laptop,661.3,failure
+2025-06-12 15:13:03,aimee33,usb_use,Remote,USB-Drive,302.51,success
+2025-06-14 04:43:36,jasmine85,usb_use,London,Printer,68.75,failure
+2025-05-25 18:27:41,thomas15,print,Remote,USB-Drive,548.65,success
+2025-06-14 14:44:44,salazarmaria,login,Tokyo,Laptop,0.0,success
+2025-06-09 22:15:05,hmassey,login,London,Laptop,0.0,failure
+2025-06-15 18:47:29,tammywoods,login,New York,Laptop,0.0,success
+2025-06-04 06:18:31,juancampos,file_access,Tokyo,Laptop,585.92,success
+2025-06-12 09:35:03,thomas12,file_access,New York,Laptop,709.29,success
+2025-06-08 14:22:32,kyleblair,login,Tokyo,Printer,0.0,success
+2025-06-17 05:15:59,nhoward,print,Remote,Printer,987.21,success
+2025-05-29 18:43:52,jrodriguez,login,San Francisco,USB-Drive,0.0,failure
+2025-06-03 08:43:02,kaisernancy,file_access,New York,Laptop,730.69,success
+2025-05-30 15:11:19,nhoward,print,London,USB-Drive,562.13,failure
+2025-06-07 19:20:11,christopher91,usb_use,San Francisco,Laptop,153.33,failure
+2025-05-30 19:19:01,criley,usb_use,Remote,USB-Drive,942.44,failure
+2025-06-21 10:58:17,achang,login,New York,Desktop,0.0,failure
+2025-06-23 18:09:17,thomas12,file_access,Remote,Desktop,187.03,failure
+2025-06-01 19:55:28,thomas12,print,Remote,Desktop,276.24,failure
+2025-06-16 00:27:43,aimee33,file_access,New York,Desktop,917.58,failure
+2025-06-13 17:15:05,aimee33,usb_use,San Francisco,Laptop,502.17,failure
+2025-06-03 08:37:36,juancampos,usb_use,London,Desktop,635.16,success
+2025-06-14 19:57:50,cortezraymond,print,New York,USB-Drive,774.92,failure
+2025-06-15 07:37:44,jrodriguez,usb_use,New York,USB-Drive,232.34,success
+2025-06-02 20:13:34,sandrakirby,print,Berlin,USB-Drive,778.6,success
+2025-06-06 09:32:03,christopher91,usb_use,New York,USB-Drive,722.96,failure
+2025-06-16 08:56:48,sean96,print,New York,USB-Drive,227.5,success
+2025-06-10 21:13:24,ostewart,usb_use,Berlin,Laptop,171.78,success
+2025-06-19 18:23:17,criley,login,Tokyo,USB-Drive,0.0,success
+2025-06-01 06:44:45,ostewart,login,New York,Desktop,0.0,failure
+2025-06-11 14:40:33,vanessa89,print,San Francisco,Desktop,914.92,success
+2025-06-16 19:25:08,sean96,file_access,Tokyo,Printer,593.56,failure
+2025-05-29 13:25:18,aimee33,usb_use,London,Laptop,771.61,success
+2025-06-17 19:42:50,john51,usb_use,San Francisco,Printer,869.56,success
+2025-06-04 05:54:01,thomas12,print,Berlin,Laptop,667.24,success
+2025-06-08 16:01:34,tamaramorrison,print,Tokyo,Printer,162.59,failure
+2025-05-25 10:47:24,salazarmaria,print,Remote,Desktop,253.45,success
+2025-06-16 03:52:07,christopher91,login,London,Desktop,0.0,success
+2025-06-16 18:55:27,juancampos,usb_use,San Francisco,Printer,257.35,failure
+2025-05-25 17:42:11,bryan80,print,Tokyo,Printer,120.85,failure
+2025-06-04 23:29:11,ostewart,usb_use,Remote,USB-Drive,376.04,success
+2025-06-08 20:29:25,lindawest,file_access,Tokyo,USB-Drive,731.27,failure
+2025-05-30 21:59:42,thomas12,login,New York,Printer,0.0,success
+2025-06-08 23:31:06,hmassey,usb_use,Remote,Laptop,30.29,failure
+2025-06-20 19:51:22,jrodriguez,usb_use,Berlin,Printer,524.4,failure
+2025-06-23 22:21:58,jasmine85,file_access,Berlin,Laptop,607.56,success
+2025-06-01 22:39:12,tammywoods,print,New York,Desktop,98.3,failure
+2025-06-14 22:52:55,sean96,file_access,Tokyo,USB-Drive,846.18,success
+2025-06-17 05:54:15,lindawest,usb_use,Tokyo,USB-Drive,709.75,success
+2025-05-29 20:28:29,sandrakirby,login,London,USB-Drive,0.0,failure
+2025-06-18 12:28:53,aimee33,login,London,Desktop,0.0,success
+2025-06-05 15:21:53,juancampos,login,London,Desktop,0.0,success
+2025-06-20 18:08:48,achang,print,Tokyo,Laptop,574.1,success
+2025-06-14 00:51:26,juancampos,print,Berlin,Desktop,563.59,success
+2025-06-07 22:58:09,tammywoods,usb_use,San Francisco,Printer,912.92,success
+2025-05-26 09:49:52,bryan80,login,New York,Laptop,0.0,failure
+2025-05-31 05:25:18,barbara42,usb_use,Berlin,USB-Drive,181.31,success
+2025-06-07 11:18:24,barbara42,print,Tokyo,Printer,633.24,success
+2025-05-27 07:53:00,john51,usb_use,Tokyo,Printer,669.71,failure
+2025-05-25 08:56:16,juancampos,print,San Francisco,Printer,628.44,success
+2025-06-06 19:34:30,ostewart,login,San Francisco,Printer,0.0,failure
+2025-06-13 16:50:44,cortezraymond,usb_use,Tokyo,USB-Drive,246.8,failure
+2025-06-19 21:35:45,juancampos,usb_use,San Francisco,Printer,155.19,failure
+2025-06-22 14:16:29,thomas12,usb_use,San Francisco,Laptop,661.28,success
+2025-06-13 14:17:23,ostewart,usb_use,Remote,Laptop,113.34,failure
+2025-06-15 22:37:16,sandrakirby,usb_use,London,USB-Drive,856.12,success
+2025-05-30 07:31:06,kyleblair,usb_use,Remote,Desktop,170.59,success
+2025-06-06 14:57:09,lindawest,file_access,New York,USB-Drive,896.59,success
+2025-06-11 12:52:31,greenwilliam,print,Remote,Laptop,391.68,failure
+2025-06-08 02:49:25,barbara42,file_access,Remote,Desktop,58.65,success
+2025-06-03 21:02:07,juancampos,login,Tokyo,Laptop,0.0,failure
+2025-06-23 06:20:44,thull,login,San Francisco,USB-Drive,0.0,failure
+2025-05-29 11:58:37,skeller,file_access,Berlin,Printer,702.96,failure
+2025-05-27 01:56:46,sean96,file_access,Remote,Printer,261.63,success
+2025-05-28 18:43:46,christopher91,file_access,Remote,Laptop,212.21,failure
+2025-06-07 02:27:43,barbara42,print,Remote,Laptop,332.68,failure
+2025-06-09 04:41:49,hmassey,usb_use,Tokyo,Laptop,140.89,success
+2025-06-20 06:22:36,lindawest,file_access,San Francisco,Laptop,126.53,failure
+2025-06-10 20:38:37,john51,login,London,Desktop,0.0,success
+2025-05-31 02:20:17,bryan80,file_access,San Francisco,Desktop,617.32,failure
+2025-06-20 02:21:12,barbara42,print,London,Printer,901.5,failure
+2025-06-06 10:48:13,sandrakirby,usb_use,New York,Desktop,272.32,success
+2025-06-02 07:11:52,tammywoods,print,San Francisco,Laptop,49.5,failure
+2025-05-28 15:58:36,criley,print,London,USB-Drive,227.51,failure
+2025-06-14 11:57:18,lindawest,file_access,Berlin,Laptop,975.33,failure
+2025-06-08 10:09:30,hmassey,file_access,New York,Laptop,562.43,success
+2025-06-08 02:04:04,criley,file_access,New York,Laptop,321.82,failure
+2025-06-19 14:17:36,barbara42,file_access,New York,Laptop,758.62,success
+2025-05-31 21:15:14,skeller,usb_use,Tokyo,USB-Drive,896.08,success
+2025-06-22 05:22:48,salazarmaria,login,Berlin,Desktop,0.0,success
+2025-06-19 18:03:06,skeller,print,Remote,Laptop,415.49,success
+2025-06-04 13:38:05,thull,file_access,London,USB-Drive,883.15,failure
+2025-06-20 03:44:25,bryan80,print,Tokyo,USB-Drive,809.16,failure
+2025-05-30 11:20:01,sallywalker,usb_use,Tokyo,USB-Drive,929.89,failure
+2025-06-14 07:15:52,christopher91,login,San Francisco,Printer,0.0,failure
+2025-06-20 17:57:05,salazarmaria,print,Remote,Desktop,919.48,success
+2025-06-13 22:39:10,lindawest,file_access,San Francisco,Desktop,78.85,failure
+2025-06-07 21:15:08,kaisernancy,file_access,Berlin,Desktop,661.7,success
+2025-06-08 13:08:36,lindawest,file_access,Tokyo,Desktop,117.11,success
+2025-06-15 20:02:05,kaisernancy,login,Remote,Laptop,0.0,success
+2025-06-12 09:49:34,skeller,file_access,San Francisco,Desktop,646.44,failure
+2025-06-21 22:40:55,nhoward,login,Tokyo,Printer,0.0,success
+2025-06-01 01:12:22,bryan80,file_access,Berlin,Desktop,763.73,failure
+2025-06-01 23:38:33,tamaramorrison,usb_use,New York,Desktop,418.95,success
+2025-05-31 08:17:44,thomas12,file_access,Remote,Desktop,178.75,failure
+2025-05-31 05:03:22,ostewart,usb_use,San Francisco,Printer,987.09,failure
+2025-06-12 21:02:17,jrodriguez,login,New York,Printer,0.0,success
+2025-06-13 20:05:38,greenwilliam,file_access,London,Printer,884.75,failure
+2025-06-23 01:16:49,christopher91,print,Berlin,Laptop,328.88,failure
+2025-06-17 01:50:08,tamaramorrison,print,London,Desktop,384.23,success
+2025-06-01 03:12:38,cortezraymond,usb_use,San Francisco,Laptop,560.78,failure
+2025-06-21 12:38:21,achang,file_access,San Francisco,USB-Drive,680.44,failure
+2025-06-08 20:57:28,criley,login,Tokyo,USB-Drive,0.0,failure
+2025-06-11 13:09:00,tammywoods,login,Tokyo,Laptop,0.0,failure
+2025-06-17 07:20:17,hmassey,login,San Francisco,USB-Drive,0.0,failure
+2025-06-14 12:16:40,tammywoods,file_access,Tokyo,Printer,7.91,failure
+2025-06-04 22:38:34,christopher91,file_access,Tokyo,Laptop,299.41,success
+2025-06-17 12:03:22,jasmine85,file_access,New York,Printer,864.74,failure
+2025-06-18 02:12:13,criley,file_access,Tokyo,USB-Drive,133.09,failure
+2025-06-18 17:00:39,jasmine85,file_access,New York,Laptop,243.06,success
+2025-06-09 19:25:10,lindawest,file_access,New York,Printer,330.48,failure
+2025-06-18 06:42:10,jasmine85,usb_use,Tokyo,Laptop,312.22,failure
+2025-05-28 06:48:23,john51,file_access,Remote,Printer,15.83,failure
+2025-06-15 21:55:08,lorijohnson,usb_use,San Francisco,USB-Drive,294.34,success
+2025-06-08 22:23:01,vanessa89,usb_use,San Francisco,Laptop,353.15,failure
+2025-06-01 07:01:48,juancampos,usb_use,London,Desktop,865.22,success
+2025-06-18 09:58:08,barbara42,login,San Francisco,Printer,0.0,failure
+2025-05-27 21:42:00,thull,login,Remote,Desktop,0.0,success
+2025-06-04 19:58:03,kyleblair,usb_use,Remote,Printer,985.2,success
+2025-05-26 14:24:25,sandrakirby,file_access,San Francisco,Laptop,874.16,failure
+2025-06-11 14:42:55,sandrakirby,usb_use,San Francisco,Laptop,494.11,success
+2025-06-17 06:00:49,sean96,login,Berlin,Desktop,0.0,success
+2025-06-13 08:09:04,lindawest,file_access,Berlin,USB-Drive,575.31,success
+2025-05-25 20:25:18,juancampos,usb_use,Berlin,Laptop,883.83,failure
+2025-06-19 22:26:30,sean96,usb_use,Berlin,Desktop,581.19,success
+2025-05-28 14:04:14,jasmine85,print,London,Laptop,329.39,failure
+2025-05-29 07:26:56,aimee33,usb_use,New York,USB-Drive,564.52,failure
+2025-06-13 12:59:08,greenwilliam,login,Remote,Printer,0.0,success
+2025-05-25 16:07:35,john51,file_access,Tokyo,Printer,294.61,success
+2025-06-11 21:33:45,vanessa89,print,Berlin,Laptop,648.24,success
+2025-05-27 08:37:06,barbara42,login,New York,Desktop,0.0,failure
+2025-05-30 23:58:11,salazarmaria,file_access,Remote,Desktop,651.26,success
+2025-05-25 13:00:02,achang,login,Tokyo,Printer,0.0,failure
+2025-06-07 11:35:50,vanessa89,print,New York,USB-Drive,630.46,success
+2025-06-08 13:27:38,christopher91,usb_use,Berlin,Desktop,677.99,failure
+2025-06-05 08:45:08,lindawest,login,San Francisco,USB-Drive,0.0,failure
+2025-06-01 04:32:47,thomas12,file_access,Berlin,Desktop,213.15,success
+2025-06-22 04:03:42,nhoward,usb_use,London,USB-Drive,733.17,success
+2025-06-08 08:05:55,vanessa89,print,London,Laptop,945.3,success
+2025-06-03 15:24:43,sandrakirby,print,San Francisco,Printer,785.6,failure
+2025-05-30 11:30:46,sandrakirby,print,San Francisco,Printer,883.77,failure
+2025-06-15 10:18:41,christopher91,login,Remote,Desktop,0.0,success
+2025-06-16 17:37:27,kaisernancy,print,Tokyo,Desktop,572.19,success
+2025-06-10 09:20:55,jrodriguez,login,San Francisco,Desktop,0.0,failure
+2025-06-13 00:11:12,achang,usb_use,New York,Desktop,619.55,success
+2025-06-02 12:40:28,jrodriguez,print,London,Laptop,765.79,failure
+2025-06-10 09:55:51,juancampos,login,Berlin,Desktop,0.0,failure
+2025-06-14 19:58:13,barbara42,usb_use,Tokyo,Laptop,751.71,failure
+2025-06-15 11:46:09,kyleblair,usb_use,Remote,Laptop,694.69,failure
+2025-06-01 13:05:51,lindawest,usb_use,London,Laptop,995.65,success
+2025-06-16 01:46:32,cortezraymond,usb_use,San Francisco,USB-Drive,233.37,success
+2025-06-01 12:29:36,kyleblair,print,New York,USB-Drive,665.13,failure
+2025-06-19 19:20:08,skeller,print,New York,Laptop,535.12,success
+2025-06-09 16:53:34,ostewart,file_access,Berlin,USB-Drive,736.74,success
+2025-05-31 15:11:54,kaisernancy,print,Remote,USB-Drive,180.29,success
+2025-06-04 11:59:21,tammywoods,usb_use,San Francisco,Printer,899.61,success
+2025-06-03 10:18:32,christopher91,file_access,New York,Printer,800.93,failure
+2025-06-15 22:05:06,john51,usb_use,London,Laptop,791.83,success
+2025-06-11 07:27:07,sallywalker,usb_use,Berlin,Desktop,63.64,failure
+2025-06-13 05:42:54,salazarmaria,print,London,USB-Drive,484.63,failure
+2025-06-15 02:28:19,greenwilliam,print,Remote,Laptop,464.12,success
+2025-06-18 05:48:57,thull,login,Tokyo,Desktop,0.0,failure
+2025-06-13 06:29:08,sean96,login,Tokyo,USB-Drive,0.0,success
+2025-06-05 01:08:49,jasmine85,login,Tokyo,Printer,0.0,failure
+2025-06-03 21:13:34,thomas15,file_access,San Francisco,Laptop,949.82,success
+2025-06-15 16:25:54,tammywoods,usb_use,Tokyo,Desktop,432.65,success
+2025-06-04 06:37:59,christopher91,file_access,London,Desktop,761.05,success
+2025-06-22 20:00:00,bryan80,file_access,New York,USB-Drive,606.81,success
+2025-05-27 18:39:22,nhoward,login,Remote,Printer,0.0,failure
+2025-06-13 05:06:01,tammywoods,usb_use,Berlin,Laptop,209.57,failure
+2025-05-26 23:24:57,ostewart,usb_use,San Francisco,USB-Drive,261.09,success
+2025-06-05 17:18:23,hmassey,print,San Francisco,Laptop,671.72,failure
+2025-05-29 11:16:31,christopher91,usb_use,London,USB-Drive,444.23,failure
+2025-06-03 10:13:44,thomas12,usb_use,Remote,Desktop,815.82,failure
+2025-06-12 00:16:45,cortezraymond,print,San Francisco,Laptop,394.41,failure
+2025-05-28 03:02:29,salazarmaria,login,Berlin,Laptop,0.0,failure
+2025-06-02 18:38:16,achang,print,San Francisco,Laptop,835.38,success
+2025-06-05 16:10:55,barbara42,usb_use,San Francisco,USB-Drive,243.18,success
+2025-06-24 00:15:10,sandrakirby,file_access,Remote,Printer,318.07,failure
+2025-06-08 19:17:13,achang,login,Tokyo,USB-Drive,0.0,failure
+2025-06-24 02:15:53,kyleblair,file_access,Remote,Printer,11.86,success
+2025-05-29 13:34:25,vanessa89,login,New York,USB-Drive,0.0,success
+2025-06-19 05:18:15,barbara42,file_access,San Francisco,Printer,256.11,failure
+2025-06-08 04:01:14,thomas12,usb_use,Remote,Printer,987.4,success
+2025-06-11 12:00:01,thomas15,file_access,Remote,Desktop,963.04,success
+2025-06-14 07:59:46,juancampos,login,New York,Laptop,0.0,failure
+2025-06-16 14:35:39,sallywalker,print,Tokyo,Laptop,736.27,failure
+2025-05-27 23:29:14,lorijohnson,file_access,San Francisco,USB-Drive,554.37,failure
+2025-06-19 09:58:16,tamaramorrison,login,Tokyo,Desktop,0.0,failure
+2025-06-20 22:09:20,ostewart,usb_use,Remote,Laptop,821.35,failure
+2025-06-15 06:20:00,lorijohnson,usb_use,Tokyo,Printer,104.15,failure
+2025-06-22 13:30:37,bryan80,login,Remote,Printer,0.0,failure
+2025-06-16 10:17:34,thomas12,login,New York,USB-Drive,0.0,success
+2025-06-18 03:46:10,jrodriguez,file_access,Berlin,Laptop,936.99,success
+2025-06-06 17:27:02,achang,usb_use,Remote,Printer,111.06,success
+2025-06-17 10:49:05,lindawest,file_access,London,USB-Drive,784.52,failure
+2025-06-04 19:37:29,kyleblair,print,Berlin,Printer,907.75,failure
+2025-06-10 17:30:09,bryan80,login,Berlin,USB-Drive,0.0,success
+2025-06-07 06:24:22,bryan80,login,San Francisco,Printer,0.0,failure
+2025-05-27 09:51:00,ostewart,usb_use,London,Desktop,709.91,failure
+2025-05-27 11:40:54,sallywalker,usb_use,Tokyo,Laptop,83.95,success
+2025-05-27 21:52:18,jrodriguez,login,London,USB-Drive,0.0,failure
+2025-06-02 06:23:08,cortezraymond,login,Tokyo,USB-Drive,0.0,success
+2025-06-11 08:11:30,tammywoods,print,New York,USB-Drive,319.91,failure
+2025-05-25 13:09:25,sandrakirby,usb_use,New York,USB-Drive,829.34,failure
+2025-06-08 10:17:43,aimee33,file_access,London,USB-Drive,694.91,failure
+2025-05-25 16:56:59,achang,print,San Francisco,Desktop,348.24,success
+2025-06-01 04:13:43,nhoward,login,Tokyo,Printer,0.0,failure
+2025-05-28 10:50:49,sean96,login,London,Laptop,0.0,success
+2025-06-15 03:00:04,sallywalker,usb_use,San Francisco,Desktop,465.75,failure
+2025-06-05 03:29:07,jrodriguez,login,London,Laptop,0.0,success
+2025-06-23 21:45:26,greenwilliam,login,London,Printer,0.0,failure
+2025-06-13 14:36:56,hmassey,login,London,Printer,0.0,failure
+2025-06-21 10:29:24,ostewart,usb_use,San Francisco,Laptop,740.04,success
+2025-06-05 02:05:41,sallywalker,login,Remote,Printer,0.0,failure
+2025-06-16 09:14:47,greenwilliam,file_access,Remote,Laptop,561.86,success
+2025-06-03 17:19:38,aimee33,usb_use,San Francisco,Desktop,572.48,failure
+2025-06-10 20:11:35,john51,file_access,Tokyo,USB-Drive,172.79,failure
+2025-06-23 21:23:08,barbara42,usb_use,Remote,USB-Drive,626.63,success
+2025-05-30 07:52:34,salazarmaria,login,New York,Laptop,0.0,success
+2025-06-23 19:05:49,tamaramorrison,usb_use,Berlin,Desktop,20.35,success
+2025-05-29 12:23:52,jasmine85,file_access,New York,Desktop,151.94,success
+2025-06-09 20:20:23,john51,print,New York,USB-Drive,288.92,success
+2025-06-10 00:52:56,thomas15,login,London,USB-Drive,0.0,failure
+2025-06-20 09:00:46,thull,usb_use,London,Laptop,410.03,failure
+2025-06-16 11:37:24,jasmine85,usb_use,San Francisco,Desktop,836.28,success
+2025-06-10 03:27:44,tamaramorrison,file_access,Berlin,Laptop,319.38,success
+2025-06-06 18:19:18,tamaramorrison,file_access,London,USB-Drive,468.5,failure
+2025-05-26 18:13:52,vanessa89,print,Tokyo,USB-Drive,98.31,success
+2025-06-19 16:48:20,ostewart,file_access,London,Printer,770.86,failure
+2025-05-27 12:19:01,hmassey,usb_use,London,USB-Drive,819.51,failure
+2025-06-03 14:09:44,kyleblair,file_access,San Francisco,Printer,992.62,failure
+2025-06-12 06:12:51,barbara42,file_access,New York,USB-Drive,137.34,failure
+2025-05-29 05:59:04,john51,login,New York,Printer,0.0,failure
+2025-06-04 12:50:03,tamaramorrison,file_access,Tokyo,Laptop,871.13,success
+2025-06-19 19:44:47,salazarmaria,print,Tokyo,Printer,982.76,failure
+2025-06-11 03:28:02,greenwilliam,usb_use,San Francisco,Desktop,862.74,failure
+2025-06-03 11:25:41,nhoward,print,San Francisco,Printer,228.58,success
+2025-06-04 03:32:56,ostewart,login,Tokyo,USB-Drive,0.0,failure
+2025-06-06 13:24:06,criley,usb_use,Berlin,Desktop,312.96,success
+2025-06-08 23:42:27,lindawest,file_access,London,Desktop,374.43,failure
+2025-06-09 12:25:10,tamaramorrison,print,Remote,Desktop,910.4,success
+2025-06-19 10:52:32,criley,print,San Francisco,USB-Drive,722.79,success
+2025-06-13 00:49:04,sandrakirby,file_access,Tokyo,Printer,361.82,failure
+2025-06-06 17:19:08,tamaramorrison,file_access,New York,Printer,657.77,failure
+2025-06-17 18:18:43,cortezraymond,usb_use,San Francisco,USB-Drive,957.15,failure
+2025-06-11 01:21:44,salazarmaria,file_access,Tokyo,Desktop,693.06,failure
+2025-06-06 00:13:07,sandrakirby,print,New York,Printer,203.29,failure
+2025-05-27 12:29:32,lorijohnson,print,New York,USB-Drive,271.02,success
+2025-06-09 04:56:33,sandrakirby,file_access,London,Desktop,164.67,success
+2025-06-21 03:44:19,criley,file_access,New York,Laptop,127.37,failure
+2025-05-28 20:55:20,jasmine85,usb_use,London,Desktop,62.02,failure
+2025-05-25 19:22:17,nhoward,print,London,USB-Drive,713.74,failure
+2025-06-16 17:39:58,criley,login,Berlin,Laptop,0.0,success
+2025-06-18 09:42:35,bryan80,print,Berlin,Printer,794.91,success
+2025-06-15 15:10:52,nhoward,print,Tokyo,Laptop,593.0,failure
+2025-05-27 15:56:51,criley,usb_use,Remote,Desktop,41.29,success
+2025-06-14 08:47:51,salazarmaria,usb_use,New York,USB-Drive,810.61,failure
+2025-06-18 07:42:26,jrodriguez,login,New York,Desktop,0.0,success
+2025-06-16 17:10:39,bryan80,print,San Francisco,Laptop,877.45,success
+2025-06-15 17:24:23,christopher91,login,Remote,USB-Drive,0.0,success
+2025-05-31 02:16:00,skeller,print,Berlin,Laptop,412.17,failure
+2025-05-29 12:23:32,thull,login,Remote,Desktop,0.0,failure
+2025-05-29 07:34:13,thomas15,file_access,San Francisco,Printer,435.81,success
+2025-06-06 01:35:46,achang,usb_use,Tokyo,Desktop,961.2,success
+2025-05-30 03:40:19,hmassey,usb_use,Remote,USB-Drive,997.4,success
+2025-06-01 19:49:39,lindawest,file_access,Berlin,Laptop,566.6,success
+2025-06-14 11:00:09,ostewart,print,Remote,Laptop,782.17,success
+2025-06-04 17:20:57,bryan80,usb_use,New York,USB-Drive,967.6,success
+2025-06-15 18:01:31,thomas15,usb_use,Berlin,Laptop,97.62,failure
+2025-06-24 02:33:21,juancampos,usb_use,San Francisco,Desktop,238.78,success
+2025-05-29 02:31:16,lorijohnson,login,Tokyo,Printer,0.0,success
+2025-06-15 02:03:31,john51,file_access,San Francisco,Laptop,333.1,failure
+2025-06-21 11:56:16,nhoward,print,Tokyo,Desktop,941.82,failure
+2025-06-13 12:14:05,ostewart,print,San Francisco,Printer,669.41,success
+2025-05-27 06:29:26,aimee33,print,London,Printer,262.89,success
+2025-06-03 02:48:41,juancampos,print,New York,Desktop,608.96,failure
+2025-06-06 11:35:49,barbara42,usb_use,New York,USB-Drive,446.62,success
+2025-06-18 03:32:59,salazarmaria,file_access,London,USB-Drive,25.39,success
+2025-06-05 01:01:12,john51,login,Berlin,Laptop,0.0,success
+2025-05-31 13:52:23,greenwilliam,print,Berlin,USB-Drive,453.59,success
+2025-06-07 21:41:48,skeller,print,New York,Printer,274.17,success
+2025-06-11 10:52:23,hmassey,usb_use,New York,Laptop,349.69,success
+2025-06-09 21:00:00,tamaramorrison,login,Remote,Laptop,0.0,success
+2025-06-15 11:16:20,kyleblair,print,London,Laptop,109.19,success
+2025-05-30 13:38:21,criley,file_access,Berlin,Desktop,232.12,failure
+2025-06-21 09:39:28,salazarmaria,file_access,New York,Printer,851.1,success
+2025-06-08 05:16:52,juancampos,print,Remote,Printer,67.29,success
+2025-06-23 23:26:23,criley,login,San Francisco,Printer,0.0,failure
+2025-06-20 15:02:29,john51,usb_use,Berlin,Desktop,549.85,failure
+2025-06-04 03:02:25,juancampos,print,Remote,Desktop,49.18,failure
+2025-06-08 18:15:17,salazarmaria,print,Remote,Printer,596.8,failure
+2025-06-15 19:21:28,bryan80,file_access,New York,USB-Drive,860.89,success
+2025-06-19 07:32:15,bryan80,usb_use,San Francisco,Printer,273.1,failure
+2025-06-23 17:08:03,bryan80,usb_use,San Francisco,Laptop,303.98,success
+2025-06-16 19:00:07,nhoward,file_access,Tokyo,Desktop,316.39,failure
+2025-06-20 09:19:13,hmassey,print,San Francisco,USB-Drive,523.24,failure
+2025-06-07 00:42:56,salazarmaria,login,Berlin,Printer,0.0,failure
+2025-06-07 14:10:55,barbara42,login,San Francisco,Laptop,0.0,failure
+2025-06-05 14:41:42,ostewart,login,Tokyo,Printer,0.0,success
+2025-05-26 03:56:05,achang,file_access,New York,Printer,426.14,failure
+2025-05-31 02:58:24,hmassey,print,New York,USB-Drive,924.53,success
+2025-06-24 05:01:12,christopher91,login,New York,Desktop,0.0,success
+2025-05-30 03:52:13,vanessa89,usb_use,Tokyo,Desktop,506.14,failure
+2025-06-02 17:42:30,thomas15,login,London,Desktop,0.0,success
+2025-06-14 11:45:23,thomas15,file_access,New York,Laptop,442.35,failure
+2025-06-06 10:29:06,thomas12,login,Tokyo,Printer,0.0,success
+2025-06-04 22:42:23,greenwilliam,file_access,Remote,Laptop,522.12,failure
+2025-06-08 04:10:32,thull,usb_use,New York,Printer,720.7,success
+2025-05-25 16:08:42,ostewart,print,New York,Printer,859.82,failure
+2025-06-20 08:34:24,vanessa89,file_access,Remote,Laptop,860.44,success
+2025-06-19 08:59:27,kaisernancy,file_access,Remote,Printer,322.39,success
+2025-06-15 03:36:46,thomas12,login,London,USB-Drive,0.0,success
+2025-05-27 18:37:46,skeller,file_access,New York,Printer,776.97,failure
+2025-05-31 06:32:34,cortezraymond,usb_use,Tokyo,Desktop,38.14,success
+2025-06-13 00:50:40,criley,file_access,Tokyo,Desktop,301.42,success
+2025-06-07 14:06:38,greenwilliam,file_access,New York,USB-Drive,812.42,failure
+2025-05-31 02:24:26,hmassey,usb_use,London,USB-Drive,994.19,success
+2025-06-21 18:31:38,thull,print,Berlin,Laptop,823.75,success
+2025-06-11 18:47:49,juancampos,file_access,London,Printer,217.7,failure
+2025-06-05 12:06:09,thomas12,usb_use,Remote,USB-Drive,254.66,success
+2025-06-20 21:31:17,kaisernancy,login,Remote,Printer,0.0,success
+2025-06-08 01:23:28,jasmine85,print,Tokyo,Laptop,747.43,failure
+2025-06-05 02:46:35,aimee33,file_access,Tokyo,Desktop,409.01,success
+2025-06-06 00:25:17,cortezraymond,print,London,USB-Drive,141.97,failure
+2025-05-28 12:07:31,jrodriguez,usb_use,Berlin,Desktop,560.72,success
+2025-06-19 12:20:06,aimee33,file_access,Tokyo,Printer,137.31,success
+2025-06-09 06:55:39,thomas12,file_access,London,Desktop,265.93,failure
+2025-06-10 05:59:09,lorijohnson,usb_use,Tokyo,Desktop,37.75,failure
+2025-06-05 16:48:36,aimee33,file_access,Tokyo,USB-Drive,4.21,failure
+2025-06-12 11:26:55,john51,login,Remote,Desktop,0.0,success
+2025-06-17 16:11:51,cortezraymond,print,San Francisco,USB-Drive,769.4,failure
+2025-06-08 06:49:30,jasmine85,file_access,Remote,Laptop,328.25,success
+2025-06-22 14:47:32,salazarmaria,print,London,USB-Drive,989.19,success
+2025-06-02 16:19:03,jasmine85,login,Tokyo,Desktop,0.0,success
+2025-06-01 00:35:41,ostewart,file_access,San Francisco,Printer,232.3,success
+2025-05-26 02:42:00,thomas15,print,Tokyo,Printer,630.52,success
+2025-06-21 05:04:39,juancampos,usb_use,Remote,USB-Drive,656.16,success
+2025-06-18 20:50:07,tammywoods,print,Tokyo,Laptop,613.61,failure
+2025-06-10 06:39:22,thull,print,London,Desktop,619.4,success
+2025-06-12 04:12:50,hmassey,login,London,Printer,0.0,success
+2025-06-22 18:43:09,tammywoods,usb_use,Remote,Laptop,772.26,success
+2025-05-26 14:06:12,criley,print,San Francisco,Printer,205.19,failure
+2025-05-31 15:53:50,kaisernancy,print,San Francisco,Desktop,989.2,failure
+2025-06-13 13:31:40,thull,print,Remote,USB-Drive,953.67,success
+2025-06-01 21:30:50,thull,usb_use,Tokyo,Desktop,713.47,failure
+2025-06-02 22:35:19,greenwilliam,file_access,London,USB-Drive,538.69,failure
+2025-06-19 03:23:19,christopher91,login,Remote,Printer,0.0,success
+2025-05-29 01:43:14,lindawest,usb_use,Remote,Printer,684.41,failure
+2025-05-31 22:36:20,christopher91,print,Berlin,Laptop,652.33,success
+2025-06-04 09:14:15,sandrakirby,print,Tokyo,USB-Drive,443.03,success
+2025-06-18 11:23:01,sandrakirby,print,London,Laptop,257.85,success
+2025-06-22 00:09:21,jasmine85,file_access,Remote,USB-Drive,656.19,success
+2025-06-04 17:20:21,thomas12,login,Berlin,Printer,0.0,failure
+2025-06-05 18:48:20,ostewart,file_access,New York,Printer,352.61,failure
+2025-05-31 18:35:01,greenwilliam,login,New York,Desktop,0.0,failure
+2025-06-05 16:54:39,sandrakirby,login,New York,Printer,0.0,failure
+2025-06-13 00:44:31,tamaramorrison,file_access,New York,USB-Drive,940.57,success
+2025-06-11 12:27:22,lindawest,login,New York,Laptop,0.0,failure
+2025-06-23 21:35:44,juancampos,print,San Francisco,Desktop,239.9,success
+2025-06-23 01:14:25,christopher91,login,New York,Printer,0.0,failure
+2025-05-31 19:03:50,bryan80,file_access,Remote,Laptop,62.66,success
+2025-06-18 13:23:51,skeller,login,Remote,Desktop,0.0,failure
+2025-05-30 14:29:17,sandrakirby,usb_use,New York,Printer,261.99,success
+2025-06-24 06:21:15,jrodriguez,file_access,New York,USB-Drive,725.34,success
+2025-05-26 14:57:06,criley,file_access,Berlin,USB-Drive,524.11,success
+2025-06-19 21:59:04,vanessa89,usb_use,New York,Laptop,285.98,failure
+2025-06-23 07:10:46,kaisernancy,usb_use,Berlin,Desktop,111.76,failure
+2025-06-11 18:27:30,nhoward,file_access,New York,Printer,940.93,success
+2025-06-18 02:36:03,jasmine85,usb_use,Remote,USB-Drive,236.7,success
+2025-06-16 11:27:31,greenwilliam,login,New York,Desktop,0.0,failure
+2025-06-09 08:18:12,nhoward,login,London,USB-Drive,0.0,failure
+2025-05-25 23:21:51,greenwilliam,login,Tokyo,Desktop,0.0,failure
+2025-06-05 01:02:49,ostewart,login,San Francisco,Laptop,0.0,failure
+2025-06-21 07:52:24,cortezraymond,usb_use,London,Laptop,63.6,failure
+2025-06-02 06:35:41,hmassey,usb_use,London,Laptop,138.69,failure
+2025-06-18 09:00:31,thomas15,file_access,New York,Printer,347.88,success
+2025-06-17 16:56:58,vanessa89,file_access,Remote,Desktop,840.26,success
+2025-06-20 20:48:44,tammywoods,print,New York,USB-Drive,216.01,success
+2025-06-09 14:24:49,sallywalker,login,Tokyo,Desktop,0.0,failure
+2025-05-29 04:25:09,criley,usb_use,London,Laptop,813.65,failure
+2025-06-06 22:35:02,sandrakirby,login,London,Printer,0.0,failure
+2025-06-01 00:46:37,cortezraymond,file_access,San Francisco,USB-Drive,935.31,failure
+2025-06-23 16:42:37,lorijohnson,usb_use,Remote,Desktop,792.24,success
+2025-06-13 20:50:12,hmassey,print,San Francisco,Desktop,194.15,failure
+2025-06-03 15:15:05,hmassey,print,Remote,Laptop,906.1,success
+2025-06-09 17:17:58,hmassey,login,London,Desktop,0.0,success
+2025-06-08 12:31:50,cortezraymond,print,Tokyo,USB-Drive,300.75,failure
+2025-06-13 00:08:33,bryan80,print,Remote,Desktop,990.87,success
+2025-05-28 05:35:34,barbara42,print,San Francisco,Printer,540.95,failure
+2025-06-04 11:45:11,bryan80,login,New York,Desktop,0.0,failure
+2025-05-27 05:15:04,bryan80,file_access,New York,USB-Drive,363.48,success
+2025-06-09 15:49:39,nhoward,print,Remote,Desktop,17.49,failure
+2025-06-06 11:27:29,thull,file_access,New York,Desktop,207.85,success
+2025-06-11 00:27:33,cortezraymond,usb_use,New York,USB-Drive,695.1,success
+2025-06-15 18:40:20,bryan80,login,London,Desktop,0.0,failure
+2025-06-05 07:51:19,thull,print,Berlin,Desktop,660.37,failure
+2025-06-06 23:41:20,jrodriguez,usb_use,New York,USB-Drive,24.15,failure
+2025-06-11 01:37:54,lindawest,login,San Francisco,Laptop,0.0,success
+2025-06-02 05:46:24,christopher91,print,New York,Printer,128.31,failure
+2025-06-09 03:52:47,jasmine85,usb_use,Berlin,Printer,6.58,success
+2025-05-26 04:25:18,jasmine85,file_access,San Francisco,Desktop,462.59,success
+2025-06-11 15:49:47,sallywalker,file_access,New York,Laptop,930.28,failure
+2025-06-22 04:55:37,skeller,print,Tokyo,USB-Drive,838.66,failure
+2025-06-20 13:13:16,bryan80,login,San Francisco,Laptop,0.0,failure
+2025-05-28 04:25:51,lindawest,print,London,Printer,226.15,success
+2025-06-01 16:49:20,greenwilliam,usb_use,Tokyo,Printer,236.18,success
+2025-06-11 12:24:23,jrodriguez,file_access,Berlin,USB-Drive,878.09,success
+2025-05-26 10:15:35,hmassey,usb_use,Berlin,Desktop,437.49,success
+2025-06-18 04:49:26,lorijohnson,usb_use,Tokyo,Desktop,63.76,failure
+2025-05-28 08:05:21,aimee33,print,San Francisco,Printer,808.49,failure
+2025-05-26 13:15:45,skeller,login,London,Printer,0.0,failure
+2025-06-06 01:58:20,hmassey,usb_use,Tokyo,USB-Drive,818.1,failure
+2025-05-27 13:01:43,barbara42,usb_use,New York,Desktop,925.82,failure
+2025-05-25 23:08:16,kyleblair,login,London,Laptop,0.0,failure
+2025-06-05 07:41:25,criley,print,San Francisco,Printer,984.71,failure
+2025-06-10 05:14:18,bryan80,login,New York,Desktop,0.0,failure
+2025-05-28 14:10:24,thull,file_access,London,Laptop,205.82,success
+2025-05-28 09:21:02,jasmine85,print,Remote,USB-Drive,293.8,success
+2025-06-11 02:30:49,thomas15,print,New York,Desktop,486.41,success
+2025-06-14 21:04:08,achang,usb_use,Tokyo,USB-Drive,198.32,success
+2025-05-31 22:55:13,sean96,usb_use,London,Desktop,185.78,failure
+2025-06-04 20:54:42,salazarmaria,usb_use,London,Printer,482.32,failure
+2025-06-16 03:43:37,vanessa89,print,San Francisco,USB-Drive,764.85,failure
+2025-06-15 11:42:10,lindawest,login,London,Printer,0.0,failure
+2025-06-01 06:08:55,sean96,login,London,Printer,0.0,failure
+2025-06-11 17:47:02,sean96,print,New York,Laptop,831.74,failure
