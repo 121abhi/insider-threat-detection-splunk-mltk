@@ -19,20 +19,19 @@ splunk-insider-threat-app/
 │
 ├── README.md                         # This file
 ├── lookups/
-│   ├── insider_data.csv              # Training dataset
+│   ├── insider_threat_lookup.csv     # Training dataset
 │   └── insider_test_data.csv         # Test dataset for dashboard
 │
 ├── models/
-│   ├── threat_model_1.pmml           # Model for activity_count
-│   ├── threat_model_2.pmml           # Model for avg_volume
-│   └── threat_model_3.pmml           # Model for hour_of_day
+│   ├── threat_model_1.mlmodel        # Model for activity_count
+│   ├── threat_model_2.mlmodel        # Model for avg_volume
+│   └── threat_model_3.mlmodel        # Model for hour_of_day
 │
 ├── dashboards/
-│   └── insider_threat_dashboard.xml  # Dashboard definition (Splunk XML)
+│   └── threat_dashboard-2025-06-25.pdf  # Dashboard definition (Splunk XML)
 │
 ├── documentation/
 │   ├── Solution_Document.pdf         # 2-page solution writeup
-│   └── architecture.png              # Optional: data flow diagram
 ```
 
 ---
@@ -66,11 +65,11 @@ All models use the following parameters:
 | inputlookup insider_test_data.csv
 | eval hour_of_day = strftime(strptime(timestamp, "%Y-%m-%d %H:%M:%S"), "%H")
 | stats count AS activity_count avg(volume) AS avg_volume BY username, activity_type, hour_of_day, location, status
-| apply "Threat Drift Detection"
+| apply "threat_model_1"
 | rename "Threat Drift Detection".isOutlier AS activity_count_outlier
-| apply "Threat Drift Detection avg_volume"
+| apply "threat_model_1"
 | rename "Threat Drift Detection avg_volume".isOutlier AS avg_volume_outlier
-| apply "Threat Drift Detection hours_of_day"
+| apply "threat_model_1"
 | rename "Threat Drift Detection hours_of_day".isOutlier AS hour_outlier
 | eval total_score = activity_count_outlier + avg_volume_outlier + hour_outlier
 | eval threat_level = case(total_score >= 2, "High", total_score == 1, "Medium", true(), "Normal")
@@ -110,7 +109,7 @@ Settings > Lookups > Lookup table files > Add New
 
 Upload:
 
-* `insider_data.csv` (for training)
+* `insider_threat_lookup.csv` (for training)
 * `insider_test_data.csv` (for testing)
 
 ### 2. Train Models
@@ -121,7 +120,7 @@ If not already trained, you can:
 * Use the SPL below to extract features:
 
   ```spl
-  | inputlookup insider_data.csv
+  | inputlookup insider_threat_lookup
   | eval hour_of_day = strftime(strptime(timestamp, "%Y-%m-%d %H:%M:%S"), "%H")
   | stats count AS activity_count avg(volume) AS avg_volume BY username, activity_type, hour_of_day, location, status
   ```
