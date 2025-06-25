@@ -9,6 +9,7 @@ This project aims to detect **insider threats** based on **user behavioral anoma
 * `hour_of_day`
 
 * `Note: This model is built on a custom dataset named insider_data.csv, synthetically generated to represent user activity logs.`
+
 This solution was built for the **Splunk Hackathon - Track 4 (MLTK Challenge)**.
 
 ---
